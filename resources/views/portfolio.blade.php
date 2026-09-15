@@ -1003,12 +1003,12 @@
 
                     <div class="project-actions">
                         <a
-                            href="https://github.com/jdyuguevara69-hue/Minecraft-Server"
+                            href="https://drive.google.com/drive/folders/1k4pRaw5C0Oi53ufOWDYEWHuAFmTfAjr3?usp=sharing"
                             class="project-link github"
                             target="_blank"
                             rel="noopener noreferrer"
                         >
-                            View on GitHub
+                            View on Google Drive
                         </a>
                     </div>
 
@@ -1077,6 +1077,7 @@
                         <span>Flutter</span>
                         <span>PHP</span>
                         <span>JavaScript</span>
+                         <span>Firebase</span>
 
                     </div>
 
@@ -1153,9 +1154,9 @@
 
                     <div class="project-tech">
 
-                        <span>Laravel</span>
+                        <span>HTML</span>
                         <span>PHP</span>
-                        <span>MySQL</span>
+                
 
                     </div>
 
